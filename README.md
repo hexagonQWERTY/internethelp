@@ -1,52 +1,36 @@
 # AI
 
-![[461095030_1717067085721273_5512383123148635375_n.jpg]]
 
-# Movies
+<img src="https://i.ibb.co/xSN1j61Z/461095030-1717067085721273-5512383123148635375-n.jpg" alt="My Image" width="500" />
 
-### 🎬 Top Free & Legal Streaming Platforms with Age Ratings
+## 🎬 Popular Movie Streaming Sites
 
-1. **Tubi**  (US Only)
-    A vast collection of movies and TV shows across various genres, including a dedicated section for kids. Tubi provides age ratings for its content. Available on multiple devices.
-    Use a VPN if your not in the US.
-    
-    ![[Pasted image 20250523132931.png]]
-    
-    
-2. **Plex**  
-    Offers a wide range of free movies and TV shows. Plex provides detailed information about each title, including age ratings.
-    
-    ![[Pasted image 20250523174648.png]]
-    
-    
-3. **The Roku Channel**  
-    Provides a mix of free movies, TV shows, and live TV channels. While primarily accessible via Roku devices, it's also available on other platforms. Content includes age ratings.
-    ![[Pasted image 20250523174901.png]]
-    
-    
-4. **Amazon Freevee**  
-    Amazon's free streaming service offers a selection of movies and TV shows with age ratings. Accessible through the Amazon website or app.
-    
-    ![[Pasted image 20250523175053.png]]
-    
-5. **Kanopy**  
-    A streaming platform available through participating libraries and educational institutions. Kanopy offers a range of films with age ratings.
-    
-    ![[Pasted image 20250523175225.png]]
-6. **Hoopla**  
-    Accessible via many public libraries, Hoopla provides movies, TV shows, and more with age ratings. Requires a library card from a participating library.
-    
-    ![[Pasted image 20250523190139.png]]
-7. **HappyKids**  
-    A kid-safe platform offering a variety of educational and entertaining content for children. All content is categorized by age group, ensuring appropriate viewing.
-    
-    ![[Pasted image 20250523190232.png]]
+Explore these popular free and paid movie streaming platforms.
 
 ---
 
-### 📱 Bonus: Use JustWatch to Filter by Age Rating
+### 🍿 Free Streaming Sites
 
-JustWatch is a streaming guide that allows you to search across multiple streaming platforms. You can filter content by age ratings, genres, and more, helping you find suitable movies and TV shows for different age groups. (PAID) (Tool meant for HELPING You find Movies and where to watch them).
+| Site | Description | Image |
+|-------|-------------|-------|
+| **[Crackle](https://www.crackle.com/)** | Free movies and TV shows with ads. Wide variety of genres. | ![Crackle Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Crackle_Logo.svg/120px-Crackle_Logo.svg.png) |
+| **[Tubi](https://tubitv.com/)** | Large library of free movies and TV with ads. | ![Tubi Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tubi_Logo.svg/120px-Tubi_Logo.svg.png) |
+| **[Pluto TV](https://pluto.tv/)** | Free live TV and on-demand movies. | ![Pluto TV Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PlutoTV_logo.svg/120px-PlutoTV_logo.svg.png) |
+
+---
+
+### 💰 Paid Streaming Sites
+
+| Site | Description | Image |
+|-------|-------------|-------|
+| **[Netflix](https://www.netflix.com/)** | Subscription-based with a huge original movie and TV library. | ![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/120px-Netflix_2015_logo.svg.png) |
+| **[Amazon Prime Video](https://www.primevideo.com/)** | Offers movies and TV shows with subscription, plus rentals. | ![Prime Video Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Prime_Video.png/120px-Prime_Video.png) |
+| **[Disney+](https://www.disneyplus.com/)** | Family-friendly content from Disney, Marvel, Star Wars, and more. | ![Disney+ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/120px-Disney%2B_logo.svg.png) |
+
+---
+
+> 📺 *Images are official logos from Wikimedia Commons or site assets.*  
+> 📅 *Last updated: May 2025*
 
 --------------------------------------------------------------------------
 ## 🌐 Free Search Engines
