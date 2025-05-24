@@ -1,6 +1,44 @@
-# AI
+## 💸 Free vs Paid Tools
 
-<img src="https://i.ibb.co/xSN1j61Z/461095030-1717067085721273-5512383123148635375-n.jpg" alt="My Image" width="400" />
+Choosing the right tools for your needs means balancing features and cost. Here’s a quick comparison:
+
+---
+
+### 🆓 Free Tools
+
+- **Cost:** $0 — Accessible to everyone  
+- **Features:** Basic to moderate functionality  
+- **Support:** Community forums, limited official support  
+- **Examples:**  
+  - [Notion Free](https://www.notion.so) — note-taking & organizing  
+  - [Canva Free](https://www.canva.com) — graphic design  
+  - [Audacity](https://www.audacityteam.org) — audio editing  
+  - [GIMP](https://www.gimp.org) — photo editing  
+
+---
+
+### 💰 Paid Tools
+
+- **Cost:** Subscription or one-time payment  
+- **Features:** Advanced and premium features, more integrations  
+- **Support:** Dedicated customer service, tutorials, updates  
+- **Examples:**  
+  - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) — design, video, photo tools  
+  - [Final Cut Pro](https://www.apple.com/final-cut-pro/) — professional video editing  
+  - [Microsoft Office 365](https://www.microsoft.com/microsoft-365) — productivity suite  
+  - [Canva Pro](https://www.canva.com/pricing/) — extra templates & tools  
+
+---
+
+### ⚖️ Which Should You Choose?
+
+- Use **free tools** if you're starting out, have a limited budget, or need basic features.  
+- Upgrade to **paid tools** if you need advanced options, professional support, or more powerful integrations.
+
+---
+
+> 💡 Many paid tools offer free trials — try before you buy!
+
 
 
 ## 🎬 Popular Movie Streaming Sites
