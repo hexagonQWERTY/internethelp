@@ -1,7 +1,6 @@
 # AI
 
-
-<img src="https://i.ibb.co/xSN1j61Z/461095030-1717067085721273-5512383123148635375-n.jpg" alt="My Image" width="500" />
+![[461095030_1717067085721273_5512383123148635375_n.jpg]]
 
 ## 🎬 Popular Movie Streaming Sites
 
